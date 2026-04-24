@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#F4F4F6"/>
+  <rect x="0" y="0" width="1080" height="180" fill="#263859"/>
+  <text x="40" y="106" font-family="Arial, sans-serif" font-size="44" fill="#ffffff">ChronoView Audit Screenshot</text>
+
+  <rect x="60" y="260" width="960" height="560" rx="28" fill="#ffffff" stroke="#D9DCE3" stroke-width="3"/>
+  <text x="100" y="360" font-family="Arial, sans-serif" font-size="34" fill="#263859">Status: No runnable Android project found in repository.</text>
+  <text x="100" y="430" font-family="Arial, sans-serif" font-size="34" fill="#263859">Only Agent.md exists with product requirements.</text>
+  <text x="100" y="500" font-family="Arial, sans-serif" font-size="34" fill="#263859">Runtime app screenshot is unavailable until project code exists.</text>
+  <text x="100" y="570" font-family="Arial, sans-serif" font-size="34" fill="#263859">This image is a visual status mock, not a live app capture.</text>
+
+  <rect x="100" y="930" width="260" height="390" rx="22" fill="#ffffff" stroke="#D9DCE3" stroke-width="2"/>
+  <rect x="120" y="960" width="220" height="160" fill="#E8EBF3"/>
+  <text x="128" y="1160" font-family="Arial, sans-serif" font-size="28" fill="#263859">Royal Chrono</text>
+  <text x="128" y="1200" font-family="Arial, sans-serif" font-size="24" fill="#7661E6">Luxury • $4,999</text>
+
+  <rect x="410" y="930" width="260" height="390" rx="22" fill="#ffffff" stroke="#D9DCE3" stroke-width="2"/>
+  <rect x="430" y="960" width="220" height="160" fill="#E8EBF3"/>
+  <text x="438" y="1160" font-family="Arial, sans-serif" font-size="28" fill="#263859">Aero Sport</text>
+  <text x="438" y="1200" font-family="Arial, sans-serif" font-size="24" fill="#7661E6">Sport • $1,299</text>
+
+  <rect x="720" y="930" width="260" height="390" rx="22" fill="#ffffff" stroke="#D9DCE3" stroke-width="2"/>
+  <rect x="740" y="960" width="220" height="160" fill="#E8EBF3"/>
+  <text x="748" y="1160" font-family="Arial, sans-serif" font-size="28" fill="#263859">Urban Steel</text>
+  <text x="748" y="1200" font-family="Arial, sans-serif" font-size="24" fill="#7661E6">Casual • $699</text>
+</svg>
